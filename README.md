@@ -1,3 +1,3 @@
 # RepCounter
 
-Simple Rep Counter App to track done reps during exercises.
+Simple Rep Counter App for tracking reps during exercise.
